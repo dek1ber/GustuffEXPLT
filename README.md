@@ -1,17 +1,17 @@
 # GustuffEXPLT
 
 ## IP ADDRESSES
-78.46.201.36
-88.99.170.84
-88.99.227.26
-94.130.106.117
-88.99.174.200
+78.46.201.36 | 
+88.99.170.84 | 
+88.99.227.26 | 
+94.130.106.117 | 
+88.99.174.200 | 
 88.99.189.31
 
 ## DOMAINS
-Facebook-photos-au.su
-Homevideo2-12l.ml
-videohosting1-5j.gq
+Facebook-photos-au.su | 
+Homevideo2-12l.ml | 
+videohosting1-5j.gq | 
 
 ## HASH
 369fcf48c1eb982088c22f86672add10cae967af82613bee6fb8a3669603dc48
